@@ -1,5 +1,5 @@
-const contractAddress = "0x450Db09c0EF3A10C7B84514879e958d1B5ee1930"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x534052dbFe40E169f0c8D40DeC619aC6080C1011"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the GammaPunks NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
