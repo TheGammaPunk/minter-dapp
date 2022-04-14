@@ -1,15 +1,15 @@
 const contractAddress = "0x450Db09c0EF3A10C7B84514879e958d1B5ee1930"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the GammaPunks NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'GammaPunks is a collection of 5000 randomly generated NFTs living in the Polygon Blockchain. Each character possesses a "Symbiote Friend" which is a mutated entity that is fused with his body and lives in symbiosis with the character. Each Punk have a single friend from 31 unique symbiotes, each having unique abilities.Each Character have seven different attributes from 180 unique traits. No two NFTs are exactly same. Owning one of these NFTs will give you complete rights to use them in every way.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
-const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
-const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
+const h2_presale_coming_soon = "Pre-Sale Minting Starts In...";
+const h2_presale_mint = "Public Minting Starts In...";
+const p_presale_coming_soon = "The clock is ticking... Be ready...";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
